@@ -1,6 +1,6 @@
 /* 
-Author: [Your Name] 
-Date: [Current Date] 
+Author: Saeed Soukiah
+Date: 17/12/2024
 Description: This program creates a simple game using the Raylib library. The game features a ball that moves around the screen based on user input. The arrow keys control the movement of the ball. The ball's position is updated continuously, and it stays within the boundaries of the screen. 
 Key Features: 
 - **Movement**: 
